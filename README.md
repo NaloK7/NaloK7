@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+I love make stuff, not only with languages
 
 ### Languages
 
