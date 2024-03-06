@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love make stuff, not only with languages
+j'aime fabriquer toutes sorte de chose (plus ou moins utiles), et me creuser la tête.
 
 ### Languages
 
