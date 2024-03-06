@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-j'aime fabriquer toutes sorte de chose (plus ou moins utiles), et me creuser la tête.
+j'aime fabriquer toutes sorte de chose (plus ou moins utiles), et me creuser la tête (plus ou moins ardemment).
 
 ### Languages
 
