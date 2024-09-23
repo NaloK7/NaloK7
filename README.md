@@ -1,32 +1,58 @@
-### Hi there 👋
+<h1>Hello there 👋</h1>
 
-j'aime fabriquer toutes sorte de chose (plus ou moins utiles), et me creuser la tête (plus ou moins ardemment).
+<!-- <h2>I like to rack my brains, more or less ardently, to create things, more or less useful.</h2> -->
+## I like to rack my brains, more or less ardently, to create things, more or less useful.&nbsp;<br/>
 
-### Languages
-
-<p>
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-	<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-	<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-	<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<h3 align="center">Languages</h3>
+	</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+	</br>
+    <img src="https://skillicons.dev/icons?i=py,cs" />
+  </a>
 </p>
-
-
-### Design
-
-<p>
-<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<hr />
+<h3 align="center">Framework</h3>
+	</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nuxt,vue,tailwind,vuetify" />
+  </a>
 </p>
-
-
-### Version Control
-
-<p>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<hr />
+<h3 align="center">Design</h3>
+	</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,sketchup" />
+  </a>
 </p>
+<hr />
+<h3 align="center">Version Control</h3>
+	</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+<hr />
+<h3 align="center">Extras</h3>
+	</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,notion,md" />
+  </a>
+</p>
+<hr />
+<h3 align="center">Currently learning</h3>
+	</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender" />
+  </a>
+</p>
+<hr />
 
 <!-- **NaloK7/NaloK7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
