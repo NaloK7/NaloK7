@@ -1,7 +1,7 @@
-<h1>Hello there 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 
-<!-- <h2>I like to rack my brains, more or less ardently, to create things, more or less useful.</h2> -->
-## I like to rack my brains, more or less ardently, to create things, more or less useful.&nbsp;<br/>
+<h2 align="center">I like to rack my brains, more or less ardently, to create things, more or less useful.</h2>
+
 
 <h3 align="center">Languages</h3>
 	</br>
